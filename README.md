@@ -233,7 +233,7 @@ The official source repository for Ferma is located on the Syncleus Gerrit insta
 following command.
 
 ```
-git clone http://gerrit.syncleus.com/Ferma
+git clone git clone https://github.com/Syncleus/Ferma.git
 ```
 
 We also maintain a GitHub clone of the official repository which can be found
