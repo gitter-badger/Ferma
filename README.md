@@ -1,4 +1,6 @@
 # Ferma
+
+[![Build Status](https://travis-ci.org/Syncleus/Ferma.svg?branch=v2.1.x)](https://travis-ci.org/Syncleus/Ferma)
 [![Dependencies](https://www.versioneye.com/user/projects/57e37d4879806f002f4a9cb5/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57e37d4879806f002f4a9cb5)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.syncleus.ferma/ferma/badge.png?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.syncleus.ferma/ferma/)
 
