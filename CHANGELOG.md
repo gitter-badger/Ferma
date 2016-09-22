@@ -1,5 +1,9 @@
 # Ferma Changelog
 
+## 2.1.1-SNAPSHOT
+
+* Changed the projects license to Apache Software License v2.
+
 ## 2.1.0
 
 * Fixed a bug where an exception was thrown when using the @Adjacency annotation on outgoing adjacencies for add*, set*, and remove*.
