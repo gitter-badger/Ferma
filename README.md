@@ -4,6 +4,8 @@
 [![Dependencies](https://www.versioneye.com/user/projects/57e37d4879806f002f4a9cb5/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57e37d4879806f002f4a9cb5)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.syncleus.ferma/ferma/badge.png?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.syncleus.ferma/ferma/)
 
+**Licensed under the Apache Software License v2**
+
 An ORM / OGM for the TinkerPop graph stack.
 
 The Ferma project has been created as an alternative to the TinkerPop Frames project. Redesigned for performance and
