@@ -1,8 +1,5 @@
 # Ferma
-[![Build Status](http://builds.syncleus.com/buildStatus/icon?job=Ferma&style=flat)](http://sonar.syncleus.com/dashboard/index/8211)
-[![Test Coverage](https://img.shields.io/sonar/http/sonar.syncleus.com/com.syncleus.ferma:ferma/coverage.svg?style=flat)](http://sonar.syncleus.com/dashboard/index/8211)
-[![Tests Passed](https://img.shields.io/jenkins/t/http/builds.syncleus.com/Ferma.svg?style=flat)](http://sonar.syncleus.com/dashboard/index/8211)
-[![Dependencies](https://www.versioneye.com/user/projects/5574ab853363340025000071/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5574ab853363340025000071)
+[![Dependencies](https://www.versioneye.com/user/projects/57e37d4879806f002f4a9cb5/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57e37d4879806f002f4a9cb5)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.syncleus.ferma/ferma/badge.png?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.syncleus.ferma/ferma/)
 
 An ORM / OGM for the TinkerPop graph stack.
